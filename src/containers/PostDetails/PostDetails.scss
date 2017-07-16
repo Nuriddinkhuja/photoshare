@@ -1,0 +1,28 @@
+.img_det {
+	margin: 0 0 30px 0;
+}
+
+.user_avatar {
+	  width: 48px;
+    height: 48px;
+    border-radius: 50%;
+}
+
+.top_item {
+	padding-top: 15px;
+}
+
+.icon_col {
+	color: #999;
+}
+
+.marg_icon {
+	margin-left: 0.75em!important;
+}
+
+@media only screen and (min-width: 1200px){
+	.cent_cont {
+			padding-left: 140px;
+			padding-right: 140px;
+	}
+}
